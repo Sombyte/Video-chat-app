@@ -1,0 +1,16 @@
+body {
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.3)),
+    url(https://img.freepik.com/free-vector/luxury-blue-background-modern-style-gradients-designs_343694-2492.jpg?w=1060&t=st=1675608082~exp=1675608682~hmac=1aa2fe587dadc1802d7b5f843d824772fff9d249f0190770d9e43323a8b3549a);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* https://i.pinimg.com/originals/8f/14/57/8f14578ef69a4c53352955d1e072eda6.png */
